@@ -1703,7 +1703,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ffffff !important;
+			color: #ffffff;
 		}
 
 		a.special:not(.button) {
@@ -3186,7 +3186,7 @@
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2e3141;
-				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bills.png");
 				background-size: auto, cover;
 				background-position: center, center;
 				margin-bottom: -6.5em;
@@ -3267,7 +3267,8 @@
 /* Wrapper */
 
 	#wrapper > header {
-		padding: 11em 0 2.25em 0 ;
+		padding: 15em 0 6.25em 0;
+		margin-bottom: -7em;
 	}
 
 		#wrapper > header .inner {
@@ -3296,7 +3297,7 @@
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bills.png");
 			background-size: auto, cover;
 			background-position: center, 0% 30%;
 			margin-bottom: -6.5em;
@@ -3784,7 +3785,7 @@
 
 		#footer {
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bills.png");
 			background-size: auto, cover;
 			background-position: center, center;
 			margin-top: -6.5em;
