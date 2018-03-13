@@ -51,7 +51,7 @@
 }
 
 h3.break {
-  text-align: center;
+  /* text-align: center; */
   margin-top: 10rem;
   border-bottom: none;
 }
