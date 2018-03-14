@@ -16,20 +16,6 @@
   position: relative;
 }
 
-.wrap::before {
-  content: 'artist name';
-  position: absolute;
-  top: 1rem;
-  left: 0;
-  color: rgba(255,255,255,.5);
-  font-size: 1.3rem;
-
-}
-.wrap:nth-of-type(2n)::before {
-  left: initial;
-  right: 0;
-}
-
 .wrap > div {
   padding-left: 2.5rem;
   display: flex;
